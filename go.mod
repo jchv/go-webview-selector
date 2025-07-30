@@ -1,4 +1,4 @@
-module github.com/jchv/go-webview-selector
+module github.com/Ghibranalj/go-webview-selector
 
 go 1.16
 
