@@ -1,11 +1,9 @@
-github.com/jchv/go-webview2 v0.0.0-20210720204005-cbb937ae0f7f h1:LkvHq825sNdOAkjmr8CNIOG2UR8HrhcLgHAWzPfQy8c=
-github.com/jchv/go-webview2 v0.0.0-20210720204005-cbb937ae0f7f/go.mod h1:TQ8wBGSagb6vuJxuRsQXw5YjLJvC6aXvy/VSXGJK+8E=
 github.com/jchv/go-webview2 v0.0.0-20220126073738-2ea27096a5eb h1:oKKhiqJVbFqiPo+cj7zmY/R8AaOxgLQixUAOP/bKuRM=
 github.com/jchv/go-webview2 v0.0.0-20220126073738-2ea27096a5eb/go.mod h1:/BNVc0Sw3Wj6Sz9uSxPwhCEUhhWs92hPde75K2YV24A=
 github.com/jchv/go-winloader v0.0.0-20200815041850-dec1ee9a7fd5 h1:pdFFlHXY9tZXmJz+tRSm1DzYEH4ebha7cffmm607bMU=
 github.com/jchv/go-winloader v0.0.0-20200815041850-dec1ee9a7fd5/go.mod h1:alcuEEnZsY1WQsagKhZDsoPCRoOijYqhZvPwLG0kzVs=
+github.com/webview/webview_go v0.0.0-20240831120633-6173450d4dd6 h1:VQpB2SpK88C6B5lPHTuSZKb2Qee1QWwiFlC5CKY4AW0=
+github.com/webview/webview_go v0.0.0-20240831120633-6173450d4dd6/go.mod h1:yE65LFCeWf4kyWD5re+h4XNvOHJEXOCOuJZ4v8l5sgk=
 golang.org/x/sys v0.0.0-20200810151505-1b9f1253b3ed/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
-golang.org/x/sys v0.0.0-20200814200057-3d37ad5750ed h1:J22ig1FUekjjkmZUM7pTKixYm8DvrYsvrBZdunYeIuQ=
-golang.org/x/sys v0.0.0-20200814200057-3d37ad5750ed/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20210218145245-beda7e5e158e h1:f5mksnk+hgXHnImpZoWj64ja99j9zV7YUgrVG95uFE4=
 golang.org/x/sys v0.0.0-20210218145245-beda7e5e158e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
