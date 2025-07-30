@@ -5,7 +5,7 @@ package webview
 import (
 	"unsafe"
 
-	"github.com/webview/webview"
+	"github.com/webview/webview_go"
 )
 
 type WebView = webview.WebView
